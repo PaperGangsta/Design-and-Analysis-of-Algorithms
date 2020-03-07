@@ -8,6 +8,6 @@
 ### 作业二
  
  Floyd和Dijksta  
- [算法详情](https://editor.csdn.net/md/?articleId=104719091)
+ [算法详情](https://blog.csdn.net/PaperGangsta/article/details/104719091)
 
 
