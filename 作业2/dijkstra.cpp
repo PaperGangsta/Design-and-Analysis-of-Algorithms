@@ -36,7 +36,7 @@ void Dijkstra(int s){
 }
 
 
-int main(){
+int main(){ 
 	int x,y,len;
 	scanf("%d %d %d",&n,&m,&s);
 	fill(G[0],G[0]+MAXV*MAXV,INF);
