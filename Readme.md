@@ -24,3 +24,13 @@
 
 最近对问题  
  [算法详情](https://blog.csdn.net/PaperGangsta/article/details/105209732)
+
+### 作业六
+
+第k小的元素   
+ [算法详情](https://blog.csdn.net/PaperGangsta/article/details/105354513)
+
+ ### 作业七
+
+投资问题     
+ [算法详情](https://blog.csdn.net/PaperGangsta/article/details/105497127)
